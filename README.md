@@ -7,33 +7,19 @@ I am a passionate Full Stack Software Engineer with a diverse skill set in both 
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-- 🖥️ C
-- ☕ Java
-- 🌐 JavaScript
-- 🐍 Python
-- 🐘 PHP
+- 🖥️ C - ☕ Java - 🌐 JavaScript - 🐍 Python - 🐘 PHP
 
 ### 🎨 Front-end Development
-- ⚛️ React.js
-- 📐 Angular
-- 🎨 Bootstrap
-- 🌬️ Tailwind
+- ⚛️ React.js - 📐 Angular - 🎨 Bootstrap - 🌬️ Tailwind
 
 ### 🏗️ Back-end Development
-- 🟢 Node.js
-- 🌶️ Flask
-- 🚂 Express.js
-- 🌱 Spring Boot
+- 🟢 Node.js - 🌶️ Flask - 🚂 Express.js - 🌱 Spring Boot
 
 ### 🗄️ Databases
-- 🐬 MySQL
-- 🍃 MongoDB
-- 🔥 Firebase
+- 🐬 MySQL - 🍃 MongoDB - 🔥 Firebase
 
 ### 🔧 Additional Skills
-- 🧩 Object-Oriented Programming (OOP)
-- 📜 TypeScript
-- 🌐 REST API Development
+- 🧩 Object-Oriented Programming (OOP) - 📜 TypeScript - 🌐 REST API Development
 
 ## Teck Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
