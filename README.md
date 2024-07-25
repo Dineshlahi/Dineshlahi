@@ -1,40 +1,39 @@
-
-# Welcome to My GitHub Profile
+# 👋 Welcome to My GitHub Profile
 
 ## About Me
 
 I am a passionate Full Stack Software Engineer with a diverse skill set in both frontend and backend development. I specialize in creating efficient, scalable, and user-friendly applications. I thrive in team environments and enjoy solving complex problems. My goal is to leverage my skills to deliver high-quality solutions and contribute to the success of any organization I am part of.
 
-## Skills
+## 🛠️ Skills
 
-### Programming Languages
-- C
-- Java
-- JavaScript
-- Python
-- PHP
+### 💻 Programming Languages
+- 🖥️ C
+- ☕ Java
+- 🌐 JavaScript
+- 🐍 Python
+- 🐘 PHP
 
-### Front-end Development
-- React.js
-- Angular
-- Bootstrap
-- Tailwind
+### 🎨 Front-end Development
+- ⚛️ React.js
+- 📐 Angular
+- 🎨 Bootstrap
+- 🌬️ Tailwind
 
-### Back-end Development
-- Node.js
-- Flask
-- Express.js
-- Spring Boot
+### 🏗️ Back-end Development
+- 🟢 Node.js
+- 🌶️ Flask
+- 🚂 Express.js
+- 🌱 Spring Boot
 
-### Databases
-- MySQL
-- MongoDB
-- Firebase
+### 🗄️ Databases
+- 🐬 MySQL
+- 🍃 MongoDB
+- 🔥 Firebase
 
-### Additional Skills
-- Object-Oriented Programming (OOP)
-- TypeScript
-- REST API Development
+### 🔧 Additional Skills
+- 🧩 Object-Oriented Programming (OOP)
+- 📜 TypeScript
+- 🌐 REST API Development
 
 ## Teck Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
